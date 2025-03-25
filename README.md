@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-Collins Mibei's Portfolio Website :)
+Collins Mibei's Portfolio Website
 </h1>
 
 <p align="center">
@@ -56,20 +56,47 @@ Collins Mibei's Portfolio Website :)
    npm run serve
    ```
 
-## 🎨 Color Reference
+## 🧐 What's inside?
 
-| Variable Name       | Hex                                                                                          |
-|---------------------|----------------------------------------------------------------------------------------------|
-| `--dark-navy`       | ![#020c1b](https://via.placeholder.com/10/020c1b?text=+) `#020c1b`                           |
-| `--navy`            | ![#eae1dc](https://via.placeholder.com/10/eae1dc?text=+) `#eae1dc`                           |
-| `--light-navy`      | ![#f0eae7](https://via.placeholder.com/10/f0eae7?text=+) `#f0eae7`                           |
-| `--lightest-navy`   | ![#f7f3f1](https://via.placeholder.com/10/f7f3f1?text=+) `#f7f3f1`                           |
-| `--navy-shadow`     | ![rgba(2, 12, 27, 0.7)](https://via.placeholder.com/10/020c1b?text=+) `rgba(2, 12, 27, 0.7)` |
-| `--dark-slate`      | ![#495670](https://via.placeholder.com/10/495670?text=+)   `#495670`                         |
-| `--slate`           | ![#8e8d8a](https://via.placeholder.com/10/8e8d8a?text=+) `#8e8d8a`                           |
-| `--light-slate`     | ![#72716e](https://via.placeholder.com/10/72716e?text=+) `#72716e`                           |
-| `--lightest-slate`  | ![#474745](https://via.placeholder.com/10/474745?text=+) `#474745`                           |
-| `--white`           | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff`                           |
-| `--green`           | ![#e85a4f](https://via.placeholder.com/10/e85a4f?text=+) `#e85a4f`                           |
-| `--green-tint-dark` | ![#8b362f](https://via.placeholder.com/10/8b362f?text=+) `#8b362f`                           |
-| `--green-tint`      | ![#f6bdb9](https://via.placeholder.com/10/f6bdb9?text=+) `#f6bdb9`                           |
+A quick look at the top-level files and directories in this project.
+
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── .prettierrc
+    ├── gatsby-browser.js
+    ├── gatsby-config.js
+    ├── gatsby-node.js
+    ├── gatsby-ssr.js
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── yarn.lock
+
+1. **`/node_modules`**: The directory where all of the modules of code that your project depends on (npm packages) are automatically installed.
+
+2. **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “Src” is a convention for “source code”.
+
+3. **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+
+4. **`.prettierrc`**: This is a configuration file for a tool called [Prettier](https://prettier.io/), which is a tool to help keep the formatting of your code consistent.
+
+5. **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://next.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+
+6. **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://next.gatsbyjs.org/docs/gatsby-config/) for more detail).
+
+7. **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby node APIs](https://next.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+
+8. **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://next.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+
+9. **`LICENSE`**: Gatsby is licensed under the MIT license.
+
+10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. (You won’t change this file directly).
+
+11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+
+12. **`README.md`**: A text file containing useful reference information about your project.
+
+13. **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm. This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.

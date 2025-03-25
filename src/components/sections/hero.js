@@ -64,10 +64,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I craft impactful web experiences.</h3>;
   const four = (
     <p>
-      I'm a Junior Software Developer and an IT Support Specialist. Currently I'm done
-       with my studies and I'm awaiting graduation from {' '}
-      <a href='https://www.kabarak.ac.ke/' target='_blank'>Kabarak University</a> for 
-      a Bachelor's Degree in Information Technology, specializing in Software.
+      I'm a Junior Software Developer and IT Support Specialist passionate about crafting
+       efficient solutions and driving technology forward. I graduated from {' '}
+      <a href='https://www.kabarak.ac.ke/' target='_blank'>Kabarak University</a> in 2024 with
+      a Bachelor's Degree in Information Technology, specializing in Software Development.
     </p>
   );
   const five = (
