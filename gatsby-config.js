@@ -5,7 +5,7 @@ module.exports = {
     title: 'Collins Mibei',
     description:
       'Collins Mibei is a software developer who specializes in building impactful digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://collinsmibei.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@MibeiCollins',
   },
