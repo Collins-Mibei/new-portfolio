@@ -149,7 +149,7 @@ const About = () => {
 
             <p>
               Feel free to reach out on {' '}<a href="https://wa.me/254797865515">whatsapp</a>{' '} or {' '}
-              <a href="mailto:%20mibeicollins07@gmail.com">email</a> email if you would like to collaborate on any project
+              <a href="mailto:%20info@collinsmibei.com">email</a> email if you would like to collaborate on any project
             </p>
 
             <p>Here are my favorite technologies for building awesome software:</p>
