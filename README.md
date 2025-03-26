@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Collins-Mibei/Portfolio/blob/main/src/images/logo.png" width="150" />
+  <img alt="Logo" src="https://github.com/Collins-Mibei/new-portfolio/blob/main/src/images/logo.png" width="150" />
 </div>
 
 <h1 align="center">
@@ -14,7 +14,7 @@ Collins Mibei's Portfolio Website
   Adapted from <a href="https://brittanychiang.com/" target="_blank">Brittany Chiang's</a> Design on Github and can be found <a href="https://github.com/bchiang7/v4" target="_blank">here</a>
 </p>
 
-![demo](https://github.com/Collins-Mibei/Portfolio/blob/main/src/images/demo.png)
+![demo](https://github.com/Collins-Mibei/new-portfolio/blob/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
