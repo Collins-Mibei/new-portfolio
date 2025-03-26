@@ -3,7 +3,7 @@ date: '2025-03-25'
 title: 'Portfolio'
 cover: './portfolio.png'
 github: 'https://github.com/Collins-Mibei/new-portfolio.git'
-external: 'https://collins-mibei.github.io/new-portfolio'
+external: 'https://collinsmibei.com'
 tech:
   - Gatsby
   - React
