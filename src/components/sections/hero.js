@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I craft impactful web experiences.</h3>;
   const four = (
     <p>
-      I'm an Entry level IT Support Specialist and a Junior Software Developer passionate 
+      I'm an Entry level IT Support Specialist anda Junior Software Developer passionate 
       about crafting efficient solutions and driving technology forward. I graduated from {' '}
       <a href='https://www.kabarak.ac.ke/' target='_blank'>Kabarak University</a> in 2024 with
       a Bachelor's Degree in Information Technology, specializing in Software Development.
